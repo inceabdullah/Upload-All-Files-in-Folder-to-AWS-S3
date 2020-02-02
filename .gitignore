@@ -1,0 +1,23 @@
+# zip, rar, tar
+*.tar
+*.zip
+*.rar
+
+# secret_info
+
+secret_info/
+secret_info.*
+
+# pyc
+
+*.pyc
+*cache__*
+
+# APIs
+
+APIs.*
+
+# node 
+
+node_modules/
+

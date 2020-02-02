@@ -1,0 +1,20 @@
+{
+  "name": "all_files_upload_2_aws_s3",
+  "version": "1.0.0",
+  "description": "Uploads all files under folder/ to S3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "S3",
+    "upload"
+  ],
+  "author": "Abdullah ince - incebdullah@yahoo.com - github.com/inceabdullah",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "mime-types": "^2.1.26"
+  }
+}
