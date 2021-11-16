@@ -14,7 +14,7 @@
   "author": "Abdullah ince - incebdullah@yahoo.com - github.com/inceabdullah",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "mime-types": "^2.1.26"
   }
 }
